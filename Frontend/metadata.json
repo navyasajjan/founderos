@@ -1,0 +1,7 @@
+{
+  "name": "Founder Control OS",
+  "description": "A high-density operating system for startup founders to manage legal, operations, assets, decisions, and strategic thinking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
